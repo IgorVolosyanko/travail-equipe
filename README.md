@@ -1,3 +1,3 @@
 # travail-equipe
 
-Démonstration en classe.
+Démonstration en classe. Phrase d'introduction supplémentaire.
